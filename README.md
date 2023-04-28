@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WertonJ
 - 👀 I’m interested in cash
 - 🌱 I’m currently learning world
-- 💞️ I’m looking to collaborate on tesla
+- 💞️ I’m looking to collaborate in tesla
 - 📫 How to reach me tg: wertonj
 
 <!---
